@@ -216,6 +216,7 @@
   /* BUTTONS */
 
   .btn-container {
+    margin-top: 10px;
     display: flex;
     justify-content: center;
     gap: 1rem;
